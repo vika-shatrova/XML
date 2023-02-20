@@ -1,0 +1,6 @@
+<severity> Trivial </severity>
+<Environment> Win10 Pro Chrome 109 </Environment>
+<Title>The AppStore button image's right and bottom borders are cut in the footer section  </Title>
+<Steps>"1, Navigate to Currency.com 2 Choose one of the languages (ZH,VI,RU,TH,PT,JA,MS,ID) 3. Scroll to the footer" </Steps>
+<Expected_Result> The AppStore button image's borders are displayed </Expected_Result>
+<Actual_Result> The AppStore button image's right and bottom borders are cut </Actual_Result>
